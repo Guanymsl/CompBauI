@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class Main{
     static List<Letter> letters = new ArrayList<>();
 
     public static void main(String[] args){

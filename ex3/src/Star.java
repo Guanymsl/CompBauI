@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Star extends RegexTree{
+class Star extends RegexTree {
     RegexTree r;
 
     Star(RegexTree r){
